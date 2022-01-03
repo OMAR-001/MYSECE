@@ -1,0 +1,104 @@
+html,body{
+    height: 100%;
+}
+#BORD{
+    color: black;
+border: 1px #00aeff solid;
+border-radius: 8px;
+
+}
+#BORD:hover{
+    color: white;
+    background-color: black;
+}
+
+#lnk{
+    color: black;
+}
+#ln{
+    color:black;
+}
+
+#ln:hover{
+    color: white;
+}
+#NV{
+    background-color: rgb(255, 255, 255);
+}
+#maine{
+        height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    
+    }
+    #logo{
+        width: 100px;
+    }
+
+#AU{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.377), 0 6px 20px 0 rgba(0, 0, 0, 0.356);
+    height: 300PX;
+}
+
+footer{
+    background-color: black;
+}
+label{
+    color: cornsilk;
+}
+#maine2{
+    height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#u {
+    display: inline-block;
+  
+}
+
+#u li{
+    display: inline-block;
+}
+#u a{
+   color: white;
+   text-decoration: none;
+   font-family: 'Ubuntu', sans-serif;;
+    
+}
+#maine2 a{
+text-decoration: none;
+color: blanchedalmond;
+}
+.sticky-top {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+#se{
+    background-color:white; 
+    color:#000000; 
+    border: #00aeff 1px solid;
+    height: 40px;
+    border-radius: 15px;
+
+}
+#se:hover{
+
+background-color:#00aeff;
+color:white;
+
+}
+#n{
+    height: 40px;
+    background-color:#00aeff;
+    border-radius: 15px;
+    border:none;
+    color:white;
+}
+
+   
